@@ -36,7 +36,7 @@ const WhyChooseUs=()=>{
     
     return (
         <>
-        <div>
+        <div className="overflow-hidden w-screen">
             <StickyScroll content={musicSchoolContent}>
 
             </StickyScroll>
