@@ -8,7 +8,7 @@
         "price": 99.99,
         "instructor": "John Doe",
         "isFeatured": true,
-        "image": "https://images.ctfassets.net/r1mvpfown1y6/4J6l5KYlGO9CNZZXaM3lHh/1354ae14ab91572dc0d58d7a74f0c49e/AcousticGuitarGuide_ArticlePageDetail_2624x800.jpg" 
+        "image": "/courses/blues.jpg" 
       },
       {
         "id": 2,
