@@ -1,0 +1,22 @@
+ export const user = [
+    { "id": 1, "name": "John" },
+    { "id": 2, "name": "Alice" },
+    { "id": 3, "name": "Bob" },
+    { "id": 4, "name": "Emily" },
+    { "id": 5, "name": "Charlie" },
+    { "id": 6, "name": "Ella" },
+    { "id": 7, "name": "David" },
+    { "id": 8, "name": "Fiona" },
+    { "id": 9, "name": "George" },
+    { "id": 10, "name": "Hannah" },
+    { "id": 11, "name": "Ian" },
+    { "id": 12, "name": "Jessica" },
+    { "id": 13, "name": "Kevin" },
+    { "id": 14, "name": "Lily" },
+    { "id": 15, "name": "Mike" },
+    { "id": 16, "name": "Natalie" },
+    { "id": 17, "name": "Olivia" },
+    { "id": 18, "name": "Peter" },
+    { "id": 19, "name": "Quinn" },
+    { "id": 20, "name": "Rachel" }
+];
